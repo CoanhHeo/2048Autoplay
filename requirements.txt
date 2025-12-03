@@ -1,0 +1,20 @@
+# Thư viện xử lý ảnh và computer vision
+opencv-python==4.8.1.78  # Không dùng opencv-contrib vì conflict với pyscreeze
+numpy>=1.21.0,<2.0  # Numpy 1.x để tương thích với opencv
+Pillow==10.1.0
+
+# Thư viện chụp màn hình nhanh
+mss==9.0.1
+
+# Thư viện tự động hóa (gửi phím)
+pyautogui==0.9.54
+
+# Thư viện hỗ trợ
+python-dotenv==1.0.0
+
+# Google Gemini AI
+google-generativeai==0.3.2
+
+# PaddleOCR - OCR mạnh mẽ, hỗ trợ nhiều ngôn ngữ (bản lite, nhanh hơn)
+paddlepaddle==3.2.2
+paddleocr>=2.0.1

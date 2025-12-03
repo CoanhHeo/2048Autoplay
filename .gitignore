@@ -1,0 +1,42 @@
+# Gitignore cho Auto 2048 Tool
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Debug images
+*.png
+!setup_example.png
+
+# Logs
+*.log
+
+# Config local (nếu có)
+config_local.py
+
+# Test files
+test_*.py
