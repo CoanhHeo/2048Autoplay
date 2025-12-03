@@ -219,7 +219,6 @@ MIT License - Free to use and modify
 
 ## 👨‍💻 Tác giả
 
-Created with ❤️ by GitHub Copilot
 
 ---
 
